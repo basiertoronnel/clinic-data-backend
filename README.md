@@ -4,17 +4,17 @@ Overview
 A web-based application designed to help healthcare professionals document and manage patient records. The system ensures accuracy, completeness, security, and ease of access to medical records.
 
 Key Features & Functionalities:
-> Secure Login and User Registration - Role-based access control for authorized personnels.
-    - Add, Search/Filter, View and Update Patients
+- Secure Login and User Registration : Role-based access control for authorized personnels.
+- Add, Search/Filter, View and Update Patients
     - Name
     - Age
     - Gender
     - Contact Info.
-> Add, Search/Filter, View and Update the Patient’s Reported Information
+- Add, Search/Filter, View and Update the Patient’s Reported Information
     - Main Complaint
     - Symptoms
     - Medical History
-> Add, Search/Filter, View and Update the Patient’s Clinical Data
+- Add, Search/Filter, View and Update the Patient’s Clinical Data
     - Vital Signs (e.g. Temperature, Blood Pressure, Heart Rate, Respiratory Rate)
     - Examination Findings
     - Lab Test Results
