@@ -1,6 +1,6 @@
 # Maniclang-MedicalClinic
 
-Overview
+Overview:
 A web-based application designed to help healthcare professionals document and manage patient records. The system ensures accuracy, completeness, security, and ease of access to medical records.
 
 Key Features & Functionalities:
@@ -26,10 +26,10 @@ Flowchart of the System:
 UI/UX Design of the System: https://www.figma.com/design/mPWqr1o2OIpTqxvcegmhhp/Untitled?node-id=9-11&p=f
 
 Roles:
-Product Owner: Maniclang
-Scrum Master: 
-Quality Assurance: 
-Scrum Team Members:
-	Frontend: Berino
-	Backend: 
-	UI/UX Design: Cruz
+- Product Owner: Maniclang
+- Scrum Master: 
+- Quality Assurance: 
+- Scrum Team Members:
+	- Frontend: Berino
+	- Backend: 
+	- UI/UX Design: Cruz
