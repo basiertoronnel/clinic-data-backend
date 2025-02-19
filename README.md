@@ -5,16 +5,16 @@ A web-based application designed to help healthcare professionals document and m
 
 Key Features & Functionalities:
 - Secure Login and User Registration : Role-based access control for authorized personnels.
-- Add, Search/Filter, View and Update Patients
+- Add, View and Update Patients
     - Name
     - Age
     - Gender
     - Contact Info.
-- Add, Search/Filter, View and Update the Patient’s Reported Information
+- Add, View and Update the Patient’s Reported Information
     - Main Complaint
     - Symptoms
     - Medical History
-- Add, Search/Filter, View and Update the Patient’s Clinical Data
+- Add, View and Update the Patient’s Clinical Data
     - Vital Signs (e.g. Temperature, Blood Pressure, Heart Rate, Respiratory Rate)
     - Examination Findings
     - Lab Test Results
