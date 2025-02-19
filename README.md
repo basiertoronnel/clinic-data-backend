@@ -21,7 +21,7 @@ Key Features & Functionalities:
     - Provisional/Confirmed Diagnosis
     - Prescription 
 
-Flowchart of the System: 
+Database Schema: 
 
 UI/UX Design of the System: https://www.figma.com/design/mPWqr1o2OIpTqxvcegmhhp/Untitled?node-id=9-11&p=f
 
