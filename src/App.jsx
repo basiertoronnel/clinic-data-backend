@@ -34,10 +34,17 @@ const App = () => {
         <Route
           path="/"
           element={
-            isAuthenticated ? <MainLayout /> : <Navigate to="/login" replace />
+            isAuthenticated ? (
+              <MainLayout
+                isAuthenticated={isAuthenticated}
+                setIsAuthenticated={setIsAuthenticated}
+              />
+            ) : (
+              <Navigate to="/login" replace />
+            )
           }
         >
-          <Route path="/" element={<Dashboard />} />
+          <Route index element={<Dashboard />} />
           <Route path="/Patient" element={<Patient />} />
           <Route path="/Reports" element={<Reports />} />
           <Route path="/ClinicalData" element={<ClinicalData />} />

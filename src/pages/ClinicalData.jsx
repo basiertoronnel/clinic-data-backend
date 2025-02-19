@@ -2,8 +2,9 @@ import React from 'react'
 
 const ClinicalData = () => {
   return (
-    <div>
-        <h1 className='text-3xl font-extrabold ml-96 text-black'>Clinical Data</h1>
+    <div className='ml-[20%]'>
+        <h1 className='text-3xl font-extrabold text-black'>CLINICAL DATA</h1>
+        
     </div>
   )
 }
