@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Maniclang-MedicalClinic
 
 Overview:
@@ -22,7 +21,7 @@ Key Features & Functionalities:
     - Provisional/Confirmed Diagnosis
     - Prescription 
 
-Flowchart of the System: 
+Database Schema: 
 
 UI/UX Design of the System: https://www.figma.com/design/mPWqr1o2OIpTqxvcegmhhp/Untitled?node-id=9-11&p=f
 
@@ -34,7 +33,7 @@ Roles:
 	- Frontend: Berino
 	- Backend: 
 	- UI/UX Design: Cruz
-=======
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -43,4 +42,4 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 86e977f (Added frontend files)
+
